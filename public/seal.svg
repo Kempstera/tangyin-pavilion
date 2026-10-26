@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" fill="#9C3B34"/>
+  <rect x="2.5" y="2.5" width="59" height="59" fill="none" stroke="#fdf6ee" stroke-opacity="0.55" stroke-width="1.2"/>
+  <g fill="#fdf6ee" font-family="Songti SC, STSong, SimSun, serif" font-size="21" font-weight="600" text-anchor="middle">
+    <text x="32" y="29">唐</text>
+    <text x="32" y="52">音</text>
+  </g>
+</svg>
